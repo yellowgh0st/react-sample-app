@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  font: 1em/1.5 -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+p, span.block, .ms-TextField-wrapper {
+  margin-bottom: 1.3rem;
+}
+
+span.block {
+  display: block;
+}
+
+footer {
+  padding-bottom: 1.3rem;
+}
